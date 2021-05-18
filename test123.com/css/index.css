@@ -1,0 +1,26 @@
+body {
+    text-align: center!important;
+}
+
+#sign_in_img {
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+}
+
+.login_group input {
+    margin: 5px;
+}
+
+#signin_submit {
+    margin: 10px;
+}
+
+#register_form small {
+    margin-left: 10px
+}
+
+.tooltip-inner {
+    min-width: 250px;
+    height: auto;
+}

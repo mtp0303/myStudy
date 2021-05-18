@@ -1,0 +1,17 @@
+.board_title {
+	width: 60%;
+	max-width: 200px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.board_title a {
+	text-decoration: none;
+}
+
+.board_date {
+	width: 20%;
+}
+
+

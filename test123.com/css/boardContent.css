@@ -1,0 +1,20 @@
+#board_box {
+	padding: 15px 15px;
+}
+
+#board_box #board_header_sub {
+	padding: 0px 48px;
+}
+
+#board_content_content {
+	padding: 48px 48px;
+}
+
+#board_content_content {
+	max-height: 300px;
+	overflow: auto;
+	
+}
+#board_content_title {
+	overflow-wrap: break-word;
+}
